@@ -1,6 +1,5 @@
 1001. 害死人不偿命的(3n+1)猜想 (15)
 
-时间限制
 400 ms
 内存限制
 65536 kB
@@ -26,7 +25,7 @@ CHEN, Yue
 5
 
 当n = 1时，count = 0;
-
+```cpp
 #include <iostream>
 using namespace std;
 int main() {
